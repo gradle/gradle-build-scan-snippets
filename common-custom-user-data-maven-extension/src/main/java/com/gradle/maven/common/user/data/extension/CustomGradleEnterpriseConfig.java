@@ -1,4 +1,4 @@
-package com.gradle;
+package com.gradle.maven.common.user.data.extension;
 
 import com.gradle.maven.extension.api.GradleEnterpriseApi;
 import com.gradle.maven.extension.api.cache.BuildCacheApi;

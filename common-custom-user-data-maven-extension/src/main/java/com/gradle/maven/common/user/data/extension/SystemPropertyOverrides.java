@@ -1,10 +1,10 @@
-package com.gradle;
+package com.gradle.maven.common.user.data.extension;
 
 import com.gradle.maven.extension.api.cache.BuildCacheApi;
 import com.gradle.maven.extension.api.cache.Server;
 
-import static com.gradle.Utils.appendPathAndTrailingSlash;
-import static com.gradle.Utils.sysProperty;
+import static com.gradle.maven.common.user.data.extension.Utils.appendPathAndTrailingSlash;
+import static com.gradle.maven.common.user.data.extension.Utils.sysProperty;
 
 /**
  * Provide standardized Gradle Enterprise configuration.
