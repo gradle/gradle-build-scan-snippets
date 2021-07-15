@@ -47,7 +47,7 @@
             <id>clojure-test</id>
             <phase>test</phase>
             <goals>
-              <goal>test</goal>
+              <goal>test-with-junit</goal>
             </goals>
           </execution>
         </executions>
@@ -94,9 +94,6 @@
                           </fileSet>
                         </fileSets>
                         <properties>
-                          <property>
-                            <name>junitOutput</name>
-                          </property>
                           <property>
                             <name>skip</name>
                           </property>
