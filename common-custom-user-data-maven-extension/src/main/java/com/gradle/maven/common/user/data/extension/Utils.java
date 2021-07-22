@@ -1,4 +1,4 @@
-package com.gradle;
+package com.gradle.maven.common.user.data.extension;
 
 import org.apache.maven.execution.MavenSession;
 
